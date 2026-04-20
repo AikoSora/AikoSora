@@ -1,9 +1,5 @@
-<h1 align="center">AikoSora</h3>
-<p align="center">
-こんにちわ！<br/>
-僕は AikoSora です　(*´꒳`*)<br/>
-Pythonのプログラマです　(〃ω〃)
-</p>
-<p align="center">
-<img src="https://raw.githubusercontent.com/AikoSora/AikoSora/main/kurisu.gif" alt="Kurisutina">
-</p>
+# AikoSora
+
+Backend and tooling with **Python**, plus a modern web stack: APIs, bots, and integrations. I focus on clear outcomes and a smooth experience for people using what I build.
+
+**[Website](https://asora.site)** · **[Telegram](https://t.me/osvdb)**
